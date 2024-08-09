@@ -1,3 +1,6 @@
 langchain/data/
-langchain/output.log
+langchain/*.log
 langchain/*.env
+langchain/cache/
+langchain/*.txt
+langchain/chroma_langchain_db/
