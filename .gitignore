@@ -4,3 +4,4 @@ langchain/*.env
 langchain/cache/
 langchain/*.txt
 langchain/chroma_langchain_db/
+langchain/MyFirstDatabase.db
